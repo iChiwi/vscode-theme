@@ -6,15 +6,6 @@ Made by lucasmsa, modified by ichiwi.
 
 ![Theme in action](https://github.com/lucasmsa/arkham-theme/raw/HEAD/screenshots/Screenshot.png)
 
----
-
-![Theme in action 2](https://github.com/lucasmsa/arkham-theme/raw/HEAD/screenshots/ScreenShot_2.png)
-
----
-
-![Theme in action 3](https://github.com/lucasmsa/arkham-theme/raw/HEAD/screenshots/Screenshot_3.png)
-
-
 ## Installing 💻
 
 -  Go to `View -> Command Palette` or type `Ctrl+Shift+P`/`cmd+Shift+P`
