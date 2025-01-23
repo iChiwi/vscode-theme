@@ -4,7 +4,7 @@ Made by lucasmsa, modified by ichiwi.
 
 #### Theme with inspirations on Transylvania and Mayukai Alucard 🌑
 
-![Theme in action](https://github.com/lucasmsa/arkham-theme/raw/HEAD/screenshots/Screenshot.png)
+![Theme in action](https://github.com/iChiwi/vscode-theme/raw/HEAD/screenshots/Screenshot.png)
 
 ## Installing 💻
 
