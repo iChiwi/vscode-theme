@@ -2,11 +2,11 @@
 
 Made by lucasmsa, modified by ichiwi.
 
-## Theme with inspirations on Transylvania and Mayukai Alucard 🌑
+## Theme with inspirations on Transylvania and Mayukai Alucard
 
 ![Theme in action](https://github.com/iChiwi/vscode-theme/raw/HEAD/screenshots/Screenshot.png)
 
-## Installing 💻
+## Installing
 
 - Go to `View -> Command Palette` or type `Ctrl+Shift+P`/`Cmd+Shift+P`.
 - Then enter `Install Extension`.
@@ -14,6 +14,6 @@ Made by lucasmsa, modified by ichiwi.
 - Select it or press Enter to install.
 - Download the master available on this repo, extract and overwrite to the extension directory at %userProfile%/.vscode/extensions/lucasmsa.arkham-theme-XXX (version differs).
 
-## Activating theme ⚡️
+## Activating Theme
 
 Run Visual Studio Code. The Arkham Theme will be available from File -> Preferences -> Color Theme dropdown menu.
