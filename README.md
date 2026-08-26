@@ -13,3 +13,9 @@ Made by lucasmsa, modified by ichiwi.
 ## Activating Theme
 
 Run Visual Studio Code. The Arkham Theme will be available from File -> Preferences -> Color Theme dropdown menu.
+
+## Recommendation
+
+Pair this with GlassIt-VSC theme (either Linux or Windows, install appropriate versions) for more aesthetic looks.
+
+<img width="999" height="492" alt="image" src="https://github.com/user-attachments/assets/78a5d30b-cba5-449c-a77e-e9121825ebb5" />
